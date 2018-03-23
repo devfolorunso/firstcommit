@@ -1,0 +1,279 @@
+body {
+	margin: 0px;
+}
+
+.head{
+	width: 100%;
+	padding:0px;
+}
+
+.header {
+ 				background-color: white;
+		 		width: 95%;
+		 		height: 70px;
+		 		display: inline-block;
+		 		float: left;
+		 		margin-left: 5%;
+ }
+
+ .headerright{
+
+		 		width: auto;
+		 		height: 70px;
+		 		background-color: white;
+		 		float: left;			 
+ }
+ .hhh a{
+ 	padding-top: 0px;
+ }
+
+ .colors{
+ 	float:right;
+ }
+
+.header1 {		margin-top: 0px;
+ 				background-color: rgba(251, 251, 251 ,0.9);
+		 		width: 5%;
+		 		height: 70px;
+		 		display: inline-block;
+		 		float: right;
+ }
+
+ .header2{		
+ 				margin-top: 0px;
+		 		width: 5%;
+		 		height: 70px;
+		 		background-color: rgba(233, 233, 233 ,0.9);
+		 		float: right;
+			 	display: inline-block;
+ }
+.header3 {
+ 				background-color: rgba(191, 191, 255, 0.9);		 		width: 5%;
+		 		height: 70px;
+		 		display: inline-block;
+		 		float: right;
+ }
+
+ .header4{
+
+		 		width: 5%;
+		 		height: 70px;
+		 		background-color: rgba(157, 157, 255, 0.9);
+		 		float: right;
+			 	display: inline-block;
+ }
+
+
+     .slider{
+     	background-image: url("bino.jpeg");
+		 margin: auto;
+		 background-position: center;
+		 background-size: cover;
+		 padding:100px;
+		 padding-right: 25px;
+        padding-left: 25px;
+
+
+     }
+
+     .inner-slider-left{
+		 	width: 50%;
+		 	float:left;
+		 }
+
+.inner-slider-left p{
+               	color: #0099cc;
+               }
+
+		 .inner-slider-left h1{
+		 	color: #ffffff;
+		 	font-family: tahoma;
+			text-align: center;
+		 	float: center;
+		 	 }
+
+		 .inner-slider-left h2{
+		 	color: #ffffff;
+		 	font-family: tahoma;
+			text-align: center;
+		 	float: center;
+		 
+		 }
+
+		 	.tab {
+		 		background-color: olive;
+		 		width: 10%;
+		 		height: 25px;
+		 		display: inline-block;
+		 		float: left;
+		 	}
+
+
+		 	.navlink {
+		 		width: 90%;
+		 		height: 25px;
+		 		background-color: #3366ff;
+		 		float: right;
+			 	display: inline-block;
+		 	}
+
+		 	.navlink a{
+		 		color:#ffffff;
+				text-decoration:none;
+				display: inline-block;
+				font-size: 15px;
+				margin-left: 25px;
+				margin-right: 25px;	
+				font-weight: bold;	 	
+		 	}
+
+		 	.navlink a:hover{
+		 		color: silver;
+		 	}
+
+		 			.contentbody{
+		 				width: auto;
+		 				margin-top: 0px;
+		 		      background-color:white;
+		 		      padding: 100px;
+			 	      text-align: center;
+		 				padding-right: 25px;
+      					padding-left: 25px;
+		 			}
+
+		 		
+		 		.contentbodyleft{
+		 			width: 70%;
+
+		 			float: left;
+		 			
+		 			display: inline-block;
+		 			border-right: 2px solid #0099cc;
+		 		}
+
+		 		.contentbodyleft h1{
+		 			color: olive;
+		 			font-size: 20px;
+		 		}
+
+		 		.contentbodyleft p{
+		 			color: #0099cc;
+		 		}
+
+		 		.contentbodyleft b{
+		 			font-weight: bolder;
+		 			font-size: 40px;
+		 		}
+		 			.bodyleft{
+		 			width: 33%;
+		 			float: left;
+		 			border-right: 2px solid #0099cc;
+		 			margin-left: 15%;
+		 			}
+
+
+		 			.bodyleft h2{
+		 				color: #0099cc;
+		 			}
+
+		 			.bodyleft h5 p{
+		 			color: #0099cc;
+		 			font-size: 10px;
+		 		}
+                   
+		 		
+		 			.bodyright{
+		 			margin-right: 10%;
+		 			width: 33%;
+		 			float: right;
+		 			
+		 		
+		 			}
+
+						.bodyright h2{
+		 				color: #0099cc;
+		 			}
+
+		 			.bodyright h5{
+		 				color: #0099cc;
+		 			}
+		 			.bodyright h5 p{
+		 			color: #0099cc;
+		 			font-size: 10px;
+		 		}
+
+
+		 		.contentbodyright{
+		 			width: 29%;
+					float: right;
+		 			display: inline-block;
+		 		}  
+
+		 		.contentpost {
+		 			padding-top: 20px;
+		 			padding-bottom: 20px;
+		 			color:#0099cc;
+		 			font-size: 20px;
+
+		 		}
+
+		 		.border{
+              border: 2px solid #0099cc;
+              	width: 100%;
+              	border-radius: 5px; 
+              }
+
+
+		 		.contentpost button{
+		 			width: 80px;
+				 	height: 25px;
+				 	border-radius: 10px;
+				 	text-align: center;
+				 	font-size: 5px;
+				 	font-weight: bold; 
+		 		}
+
+
+		 		.contentbodyright h1{
+		 			color: olive;
+		 			font-size:25px;
+		 			background-color: rgba(132, 255, 255, 0.9);
+		 		}
+
+
+
+     .clearboth{
+		 	clear:both;
+		 }
+
+		.footer{
+			background-color: #3366ff;
+              	margin-top: 80px;
+              	color:white;
+              	padding-top: 20px;
+              	padding-bottom: 20px; 
+              }
+
+              .footerleft{
+              	margin-left: 10%;
+              	float: left;
+              }
+
+              .footerright {
+              	margin-right: 10%;
+              	float: right
+              }
+              	.footerright a{
+              		color: #330000;
+              	text-decoration: none;
+              	font-weight: bold;
+              	}
+
+		 button{
+		 	width: 80px;
+		 	height: 25px;
+		 	border-radius: 2px;
+		 	text-align: center;
+		 	font-size: 10px;
+		 	font-weight: bold;
+		 }
