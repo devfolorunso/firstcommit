@@ -1,0 +1,129 @@
+body{
+	margin: auto;
+	background-image: url("bluesever.jpg");
+	background-position: center;
+	background-size: cover;
+}
+ 
+ .header {
+ 	background-color: black;
+ 	padding: 40px;
+ 	color: white;
+ 	
+ }
+
+ .logo {
+float: left;
+width: 60%;
+ }
+
+ .inner-header
+ {
+ 	width: 70%;
+ 	margin: auto;
+ }
+ .nav
+ {
+ 	background-image: url("bluesever.jpg");
+  margin: auto;
+ 	border: 2px solid #0066FF;
+ 	float:right;
+ 	width: 40%;
+ 	
+ }
+
+ .nav a {
+ 	color:white;
+ 	padding-right: 5px;
+ 	padding-left: 5px;
+ 	text-decoration:none;
+ }
+
+ .nav a:hover {
+ 	color:orange;
+     }
+
+ .slider {
+		 	
+		 	margin: auto;
+		 	background-position: center;
+		 	background-size:cover;
+		 	padding:100px;
+		 	text-align: center;
+		 	padding-right: 25px;
+      padding-left: 25px;
+		 }
+
+		 .inner-slider-right{
+		 	width: 49%;
+		 	background-color: rgba(0, 0, 0, 0.9);
+		 	float: right;
+		
+		 }
+
+		  .inner-slider-left{
+		 	width: 49%;
+		 	background-color: rgba(0, 0, 0, 0.9);
+		 	float: left;
+		 }
+               .inner-slider-left p{
+               	color: white;
+               }
+               .inner-slider-right p{
+               	color: white;
+               }
+
+               .inner-slider-left h1{
+               	color: blue;
+               }
+               		.inner-slider-right h1{
+               	color: blue;
+               }
+
+               	.content-body{
+               		width: 50%;
+               		text-align: center;
+               		padding: 70px;
+               		margin:auto;
+               	}
+
+              .border{
+              border: 2px solid #0066FF;
+              	width: 100%;
+              	border-radius: 10px; 
+              }
+
+              .our-features {
+              	
+              	padding-top: 30px;
+              	width: 60%;
+              	margin: auto;
+              }
+
+              .footer{
+              	margin-top: 80px;
+              	color:white;
+              	padding-top: 20px;
+              	padding-bottom: 20px;
+             text-align: center;
+             border-radius: 10px; 
+              }
+
+              
+		.resize {
+			width: 100%;
+			max-width: 200px;
+		}
+
+
+              .images{
+              	float: left;
+              	height: 200px;
+              	margin-left: 10px;
+              	margin-right: 10px;
+
+              }
+              
+		 .clearboth{
+		 	clear:both;
+		 }
